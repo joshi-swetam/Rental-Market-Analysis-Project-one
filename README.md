@@ -31,9 +31,18 @@ Related data can be found in cleaning and merging folder and subfolders for each
 The script files for data visualisation can be found in Visualization coding files. Most of them use function to make the process easier. These are commented for better understanding
 
 **Results**
+
 The folder with the name Plots_and_summary contains all the results and visualizations.The folders are named by according to the type of graph used for visualization
 
 **Analysis**
+
 Analysis for the visualzations and conclusions can be found in .pptx file 
 
+**Contributors**
+Data research – Rimple
+Data Cleaning – Sweta ,Kerry ,Rimple
+Data merging – Rimple
+Data Visualization – Sweta, Sakshi, Lucy, Abisola, Kerry, Rimple
+Data Analysis - Sweta, Sakshi, Lucy, Abisola, Kerry, Rimple
+API - Sweta
 
