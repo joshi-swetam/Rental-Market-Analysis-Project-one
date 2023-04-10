@@ -2,9 +2,9 @@
 ## Main Objectives and questions to answer
 **Overview of Rental Market Trends from 2018 to 2022**
 
-What were the major trends in average rents, number of units, and vacancy rates during this period across Canada?
++What were the major trends in average rents, number of units, and vacancy rates during this period across Canada?
 
-Y/Y percentage change in Average rent during this period?
++Y/Y percentage change in Average rent during this period?
 Rental Market Analysis for the year 2022
 
 How do average rents and vacancy rate vary across provinces in Canada?
