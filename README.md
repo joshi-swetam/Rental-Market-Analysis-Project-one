@@ -66,3 +66,5 @@ Data Visualization – Sweta, Sakshi, Lucy, Abisola, Kerry, Rimple
 Data Analysis - Sweta, Sakshi, Lucy, Abisola, Kerry, Rimple
 
 API - Sweta
+
+Presentation - Rimple
