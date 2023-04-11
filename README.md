@@ -43,7 +43,7 @@ The folder with the name Plots_and_summary contains all the results and visualiz
 
 Analysis for the visualzations and conclusions can be found in .pptx file
 
-## **Insights**
+## **Observations**
 
 In general, the y/y rent increases across these Canadian provinces have been relatively modest over the period from 2018 to 2022, with most provinces experiencing increases of less than 10% per year.
 
