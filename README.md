@@ -29,11 +29,11 @@ The data for the analysis was collected from Canada Mortgage and Housing Corpora
 
 <https://www.cmhc-schl.gc.ca/en/professionals/housing-markets-data-and-research/housing-data/data-tables/rental-market/urban-rental-market-survey-data-number-units>
 
-Related data can be found in cleaning and merging folder and subfolders for each type of dataset : respective cleaning .ipynb files are commented for further instructions. Script includes function for easy automation and can be used to clean any datasets downloaded using above links in.csv format
+Related data is in the cleaning and merging folder and subfolders for each type of dataset : respective cleaning .ipynb files are commented for further instructions. Script includes function for easy automation and can be used to clean any datasets downloaded using above links in.csv format.The function "CleanData' takes input for the file path and the corresponding year and will return data in the clearn format required for visualization.
 
 ## **Data Visualization**
 
-The script files for data visualisation can be found in Visualization coding files. Most of them use function to make the process easier. These are commented for better understanding
+The script files for data visualisation are in Visualization coding files. Most of them use function to make the process easier. These are commented for better understanding. For e.g. boxplot_loop script contains function data_set with four inputs(Path,year,province and column) and can be used to visualize plot for any province,year and any column.
 
 ## **Plots and figures**
 
@@ -41,7 +41,7 @@ The folder with the name Plots_and_summary contains all the results and visualiz
 
 ## **Analysis**
 
-Analysis for the visualzations and conclusions can be found in .pptx file
+Analysis for the visualzations and conclusions are in .pptx file
 
 ## **Observations**
 
