@@ -33,7 +33,7 @@ Related data is in the [cleaning](https://github.com/RimpleDabas/Rental-Market-A
 
 ## **Data Visualization**
 
-The script files for data visualisation are in Visualization [coding] (https://github.com/RimpleDabas/Rental-Market-Analysis-Project-one/blob/main/Visualization%20Coding%20files/Boxplot_IQR_calculation_Rimple.ipynb) files. Most of them use function to make the process easier. These are commented for better understanding. For e.g. boxplot_loop script contains function data_set with four inputs(Path,year,province and column) and can be used to visualize plot for any province,year and any column.
+The script files for data visualisation are in Visualization [coding](https://github.com/RimpleDabas/Rental-Market-Analysis-Project-one/blob/main/Visualization%20Coding%20files/Boxplot_IQR_calculation_Rimple.ipynb) files. Most of them use function to make the process easier. These are commented for better understanding. For e.g. boxplot_loop script contains function data_set with four inputs(Path,year,province and column) and can be used to visualize plot for any province,year and any column.
 
 ## **Plots and figures**
 
