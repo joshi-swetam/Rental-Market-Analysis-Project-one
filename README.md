@@ -29,19 +29,19 @@ The data for the analysis was collected from Canada Mortgage and Housing Corpora
 
 <https://www.cmhc-schl.gc.ca/en/professionals/housing-markets-data-and-research/housing-data/data-tables/rental-market/urban-rental-market-survey-data-number-units>
 
-Related data is in the cleaning and merging folder and subfolders for each type of dataset : respective cleaning .ipynb files are commented for further instructions. Script includes function for easy automation and can be used to clean any datasets downloaded using above links in.csv format.The function "CleanData' takes input for the file path and the corresponding year and will return data in the clearn format required for visualization.
+Related data is in the [cleaning](https://github.com/RimpleDabas/Rental-Market-Analysis-Project-one/tree/main/Cleaning%20and%20merging%20coding%20files) and merging folder and subfolders for each type of dataset : respective cleaning .ipynb [files](https://github.com/RimpleDabas/Rental-Market-Analysis-Project-one/blob/main/Cleaning%20and%20merging%20coding%20files/Datasets%20Cleaned%20and%20original_Average%20rents/Average_rents_cleaned.ipynb) are commented for further instructions. Script includes function for easy automation and can be used to clean any datasets downloaded using above links in.csv format.The function "CleanData' takes input for the file path and the corresponding year and will return data in the clearn format required for visualization.
 
 ## **Data Visualization**
 
-The script files for data visualisation are in Visualization coding files. Most of them use function to make the process easier. These are commented for better understanding. For e.g. boxplot_loop script contains function data_set with four inputs(Path,year,province and column) and can be used to visualize plot for any province,year and any column.
+The script files for data visualisation are in Visualization [coding] (https://github.com/RimpleDabas/Rental-Market-Analysis-Project-one/blob/main/Visualization%20Coding%20files/Boxplot_IQR_calculation_Rimple.ipynb) files. Most of them use function to make the process easier. These are commented for better understanding. For e.g. boxplot_loop script contains function data_set with four inputs(Path,year,province and column) and can be used to visualize plot for any province,year and any column.
 
 ## **Plots and figures**
 
-The folder with the name Plots_and_summary contains all the results and visualizations.The folders are named by according to the type of graph used for visualization
+The folder with the name [Plots_and_summary](https://github.com/RimpleDabas/Rental-Market-Analysis-Project-one/tree/main/Plots_and_summary) contains all the results and visualizations.The folders are named by according to the type of graph used for visualization
 
 ## **Analysis**
 
-Analysis for the visualzations and conclusions are in .pptx file
+Analysis for the visualzations and conclusions are in .pptx [file](https://github.com/RimpleDabas/Rental-Market-Analysis-Project-one/blob/main/Rental%20Analysis%20Project.pptx)
 
 ## **Observations**
 
