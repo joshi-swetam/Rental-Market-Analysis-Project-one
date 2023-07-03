@@ -55,17 +55,3 @@ Within Ontario average rents have been consistently increasing with Toronto bein
 Vacancy Rates and Average rents have mild negative correlation. We cannot conclude with certainty that increase in one of them has significant impact on another. For better visualization we need to remove the outliers from our datasets![LR](/Plots_and_summary/Rimple_box%20plots%20and%20linear%20regression/Linear%20and%20scatter%20plots/Linear%20regression%20Plot%20-%20%20Average%20Rents%20vs%20Vacancy%20Rates%20(%20Central%20Toronto).png).
 
 
-## **Contributors**
-Data research – Rimple
-
-Data Cleaning – Sweta ,Kerry ,Rimple
-
-Data merging – Rimple
-
-Data Visualization – Sweta, Sakshi, Lucy, Abisola, Kerry, Rimple
-
-Data Analysis - Sweta, Sakshi, Lucy, Abisola, Kerry, Rimple
-
-API - Sweta
-
-Presentation - Rimple
